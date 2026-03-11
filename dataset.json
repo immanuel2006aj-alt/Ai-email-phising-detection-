@@ -1,0 +1,14 @@
+[
+{
+"type":"phishing",
+"text":"Verify your account immediately by clicking this link"
+},
+{
+"type":"phishing",
+"text":"You have won a lottery claim your prize now"
+},
+{
+"type":"safe",
+"text":"Meeting scheduled tomorrow at 10 AM"
+}
+]
